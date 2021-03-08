@@ -2,8 +2,8 @@
 This repository holds all code written and discussed during the Computer Vision Bootcamp - 2021 conducted by ACM Student Chapter, JUIT
 
 ## Dependencies 🛠️
-* Python 3.6 or above
-* OpenCV 3.5 or above
+* Python 3.6 or above (Download Python 3.7)[https://www.python.org/downloads/release/python-379/]
+* OpenCV 3.5 or above `pip install opencv-python` 
 
 ## Table of Contents 🗒️ 
 
