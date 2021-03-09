@@ -16,7 +16,7 @@ Giving comprehensive visual aid to how color channels in images work. Isolating 
 3. `rotateImage.py`
 Rotating the image.
 
-4. `grayscaleimg.py`
+4. `grayscaling.py`
 Converting input image to grayscale - changing number of channels from 3 (B, G, R) to 1
 
 5. `drawing.py`
