@@ -13,5 +13,8 @@ Reading image data from path. Displaying dimensions and channels. Resizing and d
 2. `colorChannels.py`
 Giving comprehensive visual aid to how color channels in images work. Isolating each R, G, B channel from image and displaying individually.
 
+3. `rotateImage.py`
+Rotating the image.
+
 
 ### Stay updated with the repository for more on OpenCV with Python!
